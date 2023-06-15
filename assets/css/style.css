@@ -1,3 +1,11 @@
 h3{
     color: rgb(237, 204, 144);
 }
+.card{
+    width: 286px;
+    height: 376px;
+}
+.row img{
+    width: 286px;
+    height: 376px;
+}
